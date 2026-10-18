@@ -1,0 +1,15 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and local scratch
+*.log
+node_modules/
+
+# LaTeX build files (keep only the final PDF in assets/)
+*.aux
+*.out
+*.toc
+*.synctex.gz
